@@ -11,7 +11,7 @@ body {
 h1{
     background: #0092ca;
     font-size: 28px;
-    text-algin: center;
+    text-align: center;
     padding: 18px 0;
     color: #fff;
 }
@@ -19,7 +19,7 @@ h1{
 
     display: flex;
     gap: 35px;
-    padding 550px;
+    padding: 550px;
 }
 .weather-input input{
     width: 550px;
@@ -28,39 +28,6 @@ h1{
     font-size: 18px;
     padding: 0 17px;
     margin: 10px 0 20px 0;
-    border-radies: 4px 
+    border-radius: 4px 
 
-}
-.weather-input input:focus{
-
-}
-.weather-input .seperator{
-
-}
-.weather-input .seperator::before{
-    
-}
-.weather-input button{
-    
-}
-.weather-input .search-btn:hover{
-    
-}
-.weather-input .location-btn{
-    
-}
-.weather-input .location-btn::hover{
-    
-}
-.weather-data {
-    
-}
-.weather-data .current-weather {
-    
-}
-.current-weather h2 {
-    
-}
-.weather-data h6 {
-    
 }
